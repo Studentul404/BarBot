@@ -56,6 +56,10 @@ Project fully implemented in Tinkercad and accessible through the simulator.
 - `firmwareMain.ino` — core logic and control
 - `firmwarePixel.ino` — lighting and planned multimedia support
 
+##  Assembly scheme
+
+![Scheme](Screenshot.png)
+
 ## 🧪 Potential Improvements
 
 - Migration from simulation to physical assembly with calibrated pumps
