@@ -1,6 +1,7 @@
 # BarBot 🍸
 
 BarBot is an automated beverage mixing machine capable of preparing carbonated drinks and milkshakes, implemented in Tinkercad. Features a user interface, LED ring, LCD display, calibration system, and custom mixing logic.
+[Try it!](https://www.tinkercad.com/things/fXrM3DRYCUC-barmenbot-v106)
 
 ## 📦 Project Components
 
